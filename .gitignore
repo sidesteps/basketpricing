@@ -1,0 +1,15 @@
+obj
+
+bin
+
+Properties
+
+*.dll
+
+*.suo
+
+.*
+
+!.gitignore
+
+*~
